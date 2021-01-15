@@ -1,0 +1,14 @@
+Package: bmv
+Type: Package
+Title: Bayesian Normal Multivariate inference for spatial applications
+Version: 0.0.1
+Date: 2021-01-15
+Author: Rolf Simoes
+Maintainer: Rolf Simoes <rolfsimoes@gmail.com>
+Description: Smooth image using bayesian multivariate normal method
+             over spatial neighborhood.
+License: MIT + file LICENSE
+Imports: Rcpp (>= 1.0.5)
+LinkingTo: Rcpp, RcppArmadillo
+RoxygenNote: 7.1.1
+Encoding: UTF-8
